@@ -1,0 +1,5 @@
+jupyter==1.0.0
+gradio==3.38.0
+demucs==4.0.0
+pySoundFile
+scipy
